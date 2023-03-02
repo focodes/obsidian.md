@@ -1,0 +1,1 @@
+Las notas ricas en elementos visuales

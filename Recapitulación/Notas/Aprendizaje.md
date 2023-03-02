@@ -1,0 +1,5 @@
+Intento organizar mi vida y hoy descubrí que lo que realmente algo es crear un sistema, esto nos permite contar con una serie de pautas, prácticas que implementamos para conseguir nuestras metas. Las metas son el resultado y se utilizan para evaluar los sistemas, estos dos términos son complementarios.
+
+Un sistema permite siempre mejorar, para alcanzar los límites de la excelencia. Realizar ajustes permite fortalecer el sistema. Las palabras ya sean escritas o habladas expresan el pensamiento adyacente de su autor.
+
+Espero traer mi equipo y sincronizar mis dispositivos, también aumentar la capacidad de concentrarme por mucho tiempo en una tarea y ser productivo, claro que dentro de la productividad también se integra un tiempo de descanso. Sin descanso no hay productividad sana y ser un genio.

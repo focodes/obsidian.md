@@ -1,0 +1,1 @@
+Muestra información sobre la página web cargada actualmente

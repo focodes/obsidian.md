@@ -1,0 +1,164 @@
+{
+  "main": {
+    "id": "e0820ecde72d5bea",
+    "type": "split",
+    "children": [
+      {
+        "id": "d82fd3f6a1ca8a03",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aea74b4ce403fad8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Carpeta/Contraseñas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8e5d5d5fbd3a6177",
+    "type": "split",
+    "children": [
+      {
+        "id": "0c7ba61d0fa9e0e0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9f4e671c7ba7e4e9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "83396c626767cef1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "478148c132bbb553",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 272.5
+  },
+  "right": {
+    "id": "8e44887ad72748e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "5397046652e58dbc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3c36f52e25a46bd0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Carpeta/Contraseñas.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f445d5e071126cdb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Carpeta/Contraseñas.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6a622bd49c7014e2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "39dbac603478ec41",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Carpeta/Contraseñas.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir quick switcher": false,
+      "graph:Abrir vista de gráfico": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "markdown-importer:Abrir el importador de Markdown": false,
+      "workspaces:Manage workspace layouts": false
+    }
+  },
+  "active": "aea74b4ce403fad8",
+  "lastOpenFiles": [
+    "Carpeta/Aprendizaje.md",
+    "Carpeta/AI.md",
+    "Bloc de notas/Tiki taka.md",
+    "Bloc de notas/Signos de puntuación.md",
+    "Bloc de notas/Palabras desconocidas.md",
+    "Bloc de notas/Notas del día.md",
+    "Bloc de notas/Make time.md",
+    "Bloc de notas/Lectura rápida para todos.md",
+    "Bloc de notas/Hábitos.md",
+    "Bloc de notas/Estudiar por la noche.md"
+  ]
+}

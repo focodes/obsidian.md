@@ -1,0 +1,1 @@
+Secuecia de caracteres en el código que identifica una variable, función o propiedad.

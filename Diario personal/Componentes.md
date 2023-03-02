@@ -1,0 +1,1 @@
+Mi computador es un Dell Latitude E7240

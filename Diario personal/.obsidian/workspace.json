@@ -1,0 +1,159 @@
+{
+  "main": {
+    "id": "7eed21fa9b8d9f9f",
+    "type": "split",
+    "children": [
+      {
+        "id": "185afcfba469d4ac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "da14e4dc553a5532",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023/Enero/Tercer día.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "29f77eda0eb1d3cf",
+    "type": "split",
+    "children": [
+      {
+        "id": "46bf7adf6b679f07",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7b08df922caa733a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "84a7608e74c90d99",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9466553c42dc2ea1",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5cfe5e5a5ff3e9f4",
+    "type": "split",
+    "children": [
+      {
+        "id": "2fbb3aeeeea27a66",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "303126e7feaff20f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2023/Enero/Tercer día.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d09bd25a5f383bee",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2023/Enero/Tercer día.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2316d8d8a51fcfba",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8a675ed64a1aad7f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2023/Enero/Tercer día.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir quick switcher": false,
+      "graph:Abrir vista de gráfico": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "7b08df922caa733a",
+  "lastOpenFiles": [
+    "Recordatorio.md",
+    "Hoy de nuevo.md",
+    "Hoy.md",
+    "Día crucial.md",
+    "Componentes.md",
+    "Recapitulando/Fin de año.md",
+    "Contratos/Último contato del día.md"
+  ]
+}

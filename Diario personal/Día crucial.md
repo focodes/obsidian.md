@@ -1,0 +1,3 @@
+Hoy abandono grandes de mis pastiempos como el fútbol, seguiré apoyando desde mi interior pero no dedicaré más tiempo a supráctica, análisis y lo que tengo que ver con ello. Así como la desactivacion de mis redes sociales, cada vez me concentro más en formar un progrmador.
+Aquí empieza mi camino duro, pero hay que ser resiliente. Fuerte ante las adversidades, constante en la lucha.
+Empezaré dominando otra lengua, levantandome más temprano y tratando de mantenerme enfocado.

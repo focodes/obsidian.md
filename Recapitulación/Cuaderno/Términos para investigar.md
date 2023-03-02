@@ -1,0 +1,41 @@
+- Impenitente
+- Errata
+- Imperterrito
+- Esbozar
+- Fagocitado
+- Singladura
+- Luqueteque
+- Hebdómada 
+- Cartapacio
+- Anaquel
+- Misoneísta
+- Zambullete
+- Benemerito
+- Horrisona
+- Alipori
+- Rusiente
+- Agasajo
+- Catada
+_______________________________________________________________________________
+- Desavenciencia
+- Guarismo
+- Epílogo
+- Insigne
+- Sinergia 
+- Rememorar
+- Trepidante
+- Minucias
+- Disipar
+- Reactivo
+- Intuición 
+- Mantra
+- Diluir 
+- Lastre
+- Declinar
+_______________________________________________________________________________
+- Permisivo
+- Concatenación
+- Incontrovertido
+- Catarsis
+- Prolífica 
+- 

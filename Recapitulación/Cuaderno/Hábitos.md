@@ -1,0 +1,2 @@
+Los hábitos son rutinas o conductas regulares y automaticas. En principio puede parecer insignificante y pequeño, sin embargo su poder radica con el paso del tiempo. Ayudan a desarrollar el potencial
+Sinopsis -> Los resultados provienen de pequeños cambios
